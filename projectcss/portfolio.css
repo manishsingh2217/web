@@ -1,0 +1,116 @@
+.layout{
+    width:80%;
+    margin:0 auto;
+}
+
+
+.flex{
+    display:flex;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.f-w-500{
+    font-weight: 500;
+}
+
+
+.f-w-600{
+    font-weight: 600;
+}
+
+
+.f-w-700{
+    font-weight: 700;
+}
+.letter-spacing2{
+    letter-spacing: 2px;
+}
+
+
+.flex2{
+    flex:2;
+}
+.flex3{
+    flex:3;
+}
+
+.my-t-10{
+    margin-top: 10px;
+}
+.my-t-20{
+    margin-top: 20px;
+}
+.my-l-100{
+    margin-left: 100px;
+}
+
+.cursor-ptr{
+    cursor: grabbing;
+}
+
+ /*   about me section */
+ .pd-t-30{
+    padding-left: 150px;
+    padding-top:30px;
+   
+
+ }
+ .left{
+    margin-top: 0px;
+    margin-left:50px;
+ }
+
+ .w55{
+    width:50%;
+    margin-left: 35%;
+ }
+ .pd-t-30{
+    padding: left 70px;
+ }
+.l2-h3
+{
+    
+    top: 150px;
+}
+ .text-center{
+    text-align: center;
+ }
+
+ .about-content span{
+    color:#c6dce4;
+ }
+
+ .about-content ul{
+    margin-top: 25px;
+    margin-bottom: 10px;
+
+ }
+
+ .dot{
+    width: 22px;
+    height: 22px;
+    background-color: #b20600;
+    border-radius:50%;
+    display: inline-block;
+    margin: 10px 5px;
+    cursor: pointer;
+ }
+
+ .pd30{
+    padding: 80px;
+ }
+
